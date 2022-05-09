@@ -1,0 +1,10 @@
+footer {
+    background: rgba(0, 0, 0, 0.75);
+}
+#footer-title{
+    font-size: 20px;
+    color: #fff;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding: 20px;
+    text-align: right;
+}
